@@ -1,3 +1,18 @@
 [submodule "tmux"]
 	path = tmux
 	url = https://github.com/kasshedi117/tmux
+[submodule "i3"]
+	path = i3
+	url = https://github.com/kasshedi117/i3
+[submodule "fish"]
+	path = fish
+	url = https://github.com/kasshedi117/fish
+[submodule "alacritty"]
+	path = alacritty
+	url = https://github.com/kasshedi117/alacritty
+[submodule "kass-nvim"]
+	path = kass-nvim
+	url = https://github.com/kasshedi117/kass-nvim
+[submodule "kass-vim"]
+	path = kass-vim
+	url = https://github.com/kasshedi117/kass-vim
