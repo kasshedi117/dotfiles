@@ -16,3 +16,6 @@
 [submodule "kass-vim"]
 	path = kass-vim
 	url = https://github.com/kasshedi117/kass-vim
+[submodule "my-scripts"]
+	path = my-scripts
+	url = https://github.com/kasshedi117/my-scripts
