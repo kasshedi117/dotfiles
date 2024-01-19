@@ -1,0 +1,39 @@
+keycode 10 = 1 1 1 1 
+keycode 11 = 2 2 2 2 
+keycode 12 = 3 3 3 3 
+keycode 13 = 4 4 4 4
+keycode 14 = 5 5 5 5
+keycode 15 = 6 6 6 6 
+keycode 16 = 7 7 7 7
+keycode 17 = 8 8 8 8
+keycode 18 = 9 9 9 9 
+keycode 19 = 0 0 0 0 
+
+keycode 24 = a A a A quotedbl quotedbl 
+keycode 25 = w W w W dollar dollar 
+keycode 26 = e E e E asterisk EuroSign  
+keycode 27 = r R r R apostrophe apostrophe 
+keycode 28 = t T t T numbersign numbersign 
+
+keycode 38 = q Q q Q minus minus 
+keycode 39 = s S s S underscore ssharp 
+keycode 40 = d D d D ampersand ampersand 
+keycode 41 = f F f F bar bar 
+
+keycode 30 = u U u U parenleft Greek_alpha 
+keycode 31 = i I i I parenright Greek_beta
+keycode 32 = o O o O at odiaeresis 
+keycode 33 = p P p P plus asciicircum 
+
+keycode 43 = h H h H backslash Greek_eta 
+keycode 44 = j J j J bracketleft Greek_gamma
+keycode 45 = k K k K bracketright Greek_delta
+keycode 46 = l L l L braceleft Greek_epsilon 
+keycode 47 = m M m M braceright Greek_zeta
+
+keycode 52 = z Z z Z less less
+keycode 53 = x X x X comma comma 
+
+keycode 55 = v V v V asciitilde asciitilde 
+keycode 56 = b B b B equal equal 
+keycode 57 = n N n N greater greater 
